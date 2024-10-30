@@ -1,1 +1,5 @@
-Que codigo tengo que escribir?
+# PRACTICA04
+Practica
+04
+Lista
+:)
